@@ -1,0 +1,10 @@
+17/12
+- Regler les problemes avec la base de donnees et ecrires les methodes de recuperation des collections de tweets et 
+les integrer dans le code (maha et maxime)
+- Completer le Swing pour permettre a l'utilisateur de visualiser les collections et le Streaming (Nada)
+- ecrire les classes pour le stream ( Souleymane avec l'aide de Nada)
+
+
+Fonctionnalites a ajouter : 	-permettre a l'utilisateur de sauvegarder les tweets 
+				-permettre a l'utilisateur de visualiser les collections de tweets d'une recherche precedente 
+				-permettre a l'utilisateur de visualiser les tweets en direct

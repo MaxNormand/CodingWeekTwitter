@@ -1,0 +1,15 @@
+16/12
+-Continuer a travailler sur la base de donnees et tester les methodes avec restAPI et streamingAPI
+         -methode de recuperation des donnees de la base de donnees 
+	 -integration de ces methodes dans le code precedent
+         (Maha et Maxime)
+
+-Mettre en place le Streaming en ligne de commandes: permettre ainsi a l'utilisateur de visualiser les tweets en direct sur la console
+        (Souleymane)
+
+-Mettre en place du Streaming en Interface  graphique: permettre ainsi a l'utilisateur de visualiser les tweets en direct sur l'appli
+-etudier les collections pour la base de donnees 
+       (Nada)                                             
+
+
+Fonctionnalite ajoutee: recevoir les Tweets en direct en console (partie dynamique)

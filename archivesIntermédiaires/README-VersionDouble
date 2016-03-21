@@ -1,0 +1,14 @@
+Pour executer la VersionDouble : 
+-Placer la clef de l'API twitter en format texte sous le nom "key.txt" sous la forme : 
+	-USER_ID
+	-ACCESS_TOKEN_SECRET
+	_ACCESS_TOKEN
+	_CONSUMET_KEY_SECRET
+	_CONSUMER_KEY
+-Lancer dans un terminal :
+	Pour interface graphique:
+		 java -jar VersionDouble.jar -ig
+	Pour ligne de commande
+		  java -jar VersionDouble.jar -console
+	
+

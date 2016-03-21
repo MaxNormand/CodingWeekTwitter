@@ -1,0 +1,16 @@
+Nada: partie authentification 
+Maha: Partie hashtag
+Maxime: partie auteur
+Souleymane: partie langue
+-Se familiariser avec la base de donnees MongoLab (noSQL).
+-On s'occupera du package Model(API Twitter) pour pouvoir faire au moins fonctionner le travail sur ligne de commande.
+Objectif: 
+Creer une classe Tweet et recuperer toutes les donnees associees 
+-Definition de l'architecture du code: 
+	dao: TweetManagerDao.java interaction avec la base de donnees (Data access object)
+	model: Main.java et TweetWrapper.java(representation du tweet, on prend que les informations dont on a besoin de Twitter et on les stockera en base de donnees)
+	service: TweetManagerService.java communication avec l'utulisateur
+	utils: TweetManagerUtilsjava authentification a l'API
+	view: l'interface graphique 	
+
+But du jour: proposer une recherche de tweets selon les criteres en lignes de commande 

@@ -1,0 +1,11 @@
+15/12
+-Choix base de donnees : Jdbc Mysql + utilisation de Mysql WorkBench 
+	-Mise en place de la base de donnees par Maha et Maxime + codage des methodes d'echange avec la BD 
+
+-Interface graphique type Swing
+	-Mise en place de l'interface par Nada et des classes associees
+
+-Tests unitaires + recherche infos sur streaming 
+	-Souleymane
+
+Release_2: devra contenir au moins l'interface graphique afin d'apporter une nouvelle fonctionalite a l'appli  

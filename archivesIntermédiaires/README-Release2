@@ -1,0 +1,9 @@
+Pour executer la Release 2 : 
+-Placer la clef de l'API twitter en format texte sous le nom "key.txt" sous la forme : 
+	-USER_ID
+	-ACCESS_TOKEN_SECRET
+	-ACCESS_TOKEN
+	-CONSUMER_KEY_SECRET
+	-CONSUMER_KEY
+-Lancer dans un terminal : java -jar codingweekRelease2.jar
+
